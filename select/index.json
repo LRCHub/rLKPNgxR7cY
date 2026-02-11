@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "告白直前酸欠状態",
+  "base_artist": "優里",
+  "createdAt": "2026-02-11T10:57:01.257360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "告白直前酸欠状態",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/01_告白直前酸欠状態_優里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "告白直前酸欠状態",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/02_告白直前酸欠状態_Yuuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告白直前酸欠状態",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_告白直前酸欠状態_優里.txt"
+    }
+  ]
+}
